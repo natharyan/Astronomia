@@ -1,8 +1,8 @@
 # Astronomia
 
-![Copy of Astronomia](https://user-images.githubusercontent.com/74306760/152697401-1174bd7e-bbaa-4b75-a903-a8d7c6bb7871.jpg)
+![Copy of Astronomia](https://user-images.githubusercontent.com/74306760/152697401-1174bd7e-bbaa-4b75-a903-a8d7c6bb7871.png)
 
-![0002](https://user-images.githubusercontent.com/74306760/152693190-ad06ee0c-d7d7-4604-8e37-130e37af1e93.jpg)
+![0002](https://user-images.githubusercontent.com/74306760/152693190-ad06ee0c-d7d7-4604-8e37-130e37af1e93.png)
 
 ![0003](https://user-images.githubusercontent.com/74306760/152693210-c0bca63b-2ff9-4ab8-9984-e62e2a6e649c.jpg)
 
