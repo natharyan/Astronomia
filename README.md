@@ -1,6 +1,6 @@
 # Astronomia
 
-![0001](https://user-images.githubusercontent.com/74306760/152697349-3c632af8-7413-4dd7-b63e-bc8873fc907a.jpg)
+![Copy of Astronomia](https://user-images.githubusercontent.com/74306760/152697401-1174bd7e-bbaa-4b75-a903-a8d7c6bb7871.jpg)
 
 ![0002](https://user-images.githubusercontent.com/74306760/152693190-ad06ee0c-d7d7-4604-8e37-130e37af1e93.jpg)
 
