@@ -1,6 +1,6 @@
 # Astronomia
 
-![0001](https://user-images.githubusercontent.com/74306760/152693184-c1481c9d-4440-42e0-a7e4-86e3d2f515e1.jpg)
+<img width="405" alt="Screenshot 2022-02-07 at 12 37 01 AM" src="https://user-images.githubusercontent.com/74306760/152697298-28e3bd0b-a1e7-4bf0-aff7-1a859c433ef6.png">
 
 ![0002](https://user-images.githubusercontent.com/74306760/152693190-ad06ee0c-d7d7-4604-8e37-130e37af1e93.jpg)
 
