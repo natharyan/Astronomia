@@ -1,6 +1,6 @@
 ![astronomia](https://user-images.githubusercontent.com/74306760/153274660-007d89b1-5ebc-4dec-8474-575ede6d9a64.jpg)
 
-# Astronomia
+# Astronomia: Let the exploration begin
 
 <img width="901" alt="Screenshot 2022-02-10 at 12 50 06 AM" src="https://user-images.githubusercontent.com/74306760/153274455-2e8f6251-a295-40cd-9122-66053e663a07.png">
 
