@@ -1,4 +1,4 @@
-[Share what you feel comfortable with..pdf](https://github.com/natharyan/Astronomia/files/8035564/Share.what.you.feel.comfortable.with.pdf)
+![astronomia](https://user-images.githubusercontent.com/74306760/153274660-007d89b1-5ebc-4dec-8474-575ede6d9a64.jpg)
 
 # Astronomia
 
