@@ -1,11 +1,11 @@
-![Astronomia](https://user-images.githubusercontent.com/74306760/153272027-0abd5d7a-5f18-46d4-b078-1e6347040b40.png)
+[Share what you feel comfortable with..pdf](https://github.com/natharyan/Astronomia/files/8035564/Share.what.you.feel.comfortable.with.pdf)
 
 # Astronomia
 
-<img width="894" alt="Screenshot 2022-02-10 at 12 41 37 AM" src="https://user-images.githubusercontent.com/74306760/153273527-288503f1-60e7-421a-9513-9f983d050bbd.png">
+<img width="901" alt="Screenshot 2022-02-10 at 12 50 06 AM" src="https://user-images.githubusercontent.com/74306760/153274455-2e8f6251-a295-40cd-9122-66053e663a07.png">
 
-<img width="894" alt="Screenshot 2022-02-10 at 12 41 59 AM" src="https://user-images.githubusercontent.com/74306760/153273547-460dcde6-863c-4e69-b01f-8bc56e8b7600.png">
+<img width="901" alt="Screenshot 2022-02-10 at 12 49 30 AM" src="https://user-images.githubusercontent.com/74306760/153274507-8aebb6a1-81ca-4c03-a0e9-feb66f76b98c.png">
 
 <img width="895" alt="Screenshot 2022-02-10 at 12 43 12 AM" src="https://user-images.githubusercontent.com/74306760/153273556-66a75690-e3ec-424b-8070-bb7701cb8b36.png">
 
-<img width="896" alt="Screenshot 2022-02-10 at 12 43 46 AM" src="https://user-images.githubusercontent.com/74306760/153273586-da661d2e-7f9c-4364-8e97-13e148a42bde.png">
+<img width="900" alt="Screenshot 2022-02-10 at 12 47 54 AM" src="https://user-images.githubusercontent.com/74306760/153274012-ebca22d0-bcce-425e-9ce2-52af215c4229.png">
