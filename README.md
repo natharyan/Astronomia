@@ -52,7 +52,7 @@ https://user-images.githubusercontent.com/74306760/153367243-dcbbf687-12d7-435a-
 
 
 ## Level-1 completed:
-Once you've destroyed all the asteroids, you are taken to the level lobby where you can choose to directly progress on to the next level or go back to the lobby and see your new spaceship!
+Once you've destroyed all the asteroids, you are taken to the level lobby where you can choose to directly progress on to the next level or go back to the main lobby and see your new spaceship!
 
 
 <img width="901" alt="Screenshot 2022-02-10 at 12 53 19 AM" src="https://user-images.githubusercontent.com/74306760/153274955-0e5ab175-0d3c-49be-8ffe-b74710b23c2a.png">
