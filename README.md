@@ -60,7 +60,7 @@ Once you've destroyed all the asteroids, you are taken to the level lobby where 
 
 
 ## Main lobby(updated):
-After finishing a level, you will see that your spaceship has been updated and its acceleration, turning speed and bullet speed are upgraded.
+After finishing a level, you will see that your spaceship has been updated and its turning speed, acceleration and bullet speed are upgraded.
 
 
 <img width="900" alt="Screenshot 2022-02-10 at 12 47 54 AM" src="https://user-images.githubusercontent.com/74306760/153274012-ebca22d0-bcce-425e-9ce2-52af215c4229.png">
