@@ -3,6 +3,13 @@
 # Astronomia: let the exploration begin
 The main objective of the game is to destroy multiple waves of asteroids with the help of a blaster mounted on the spaceship. After passing each level, the player reaches the next planet in the solar system, starting form Mercury.
 
+### Requirements:
+To use this project, you will need the following:
+ [I'm an inline-style link](https://www.google.com)
+ • [pygame](https://pypi.org/project/pygame/)
+ • [PIL](https://pypi.org/project/Pillow/)
+ • [python mysql.connector](https://pypi.org/project/mysql-connector-python/#description)
+
 <img width="901" alt="Screenshot 2022-02-10 at 12 50 06 AM" src="https://user-images.githubusercontent.com/74306760/153274455-2e8f6251-a295-40cd-9122-66053e663a07.png">
 
 <img width="901" alt="Screenshot 2022-02-10 at 12 49 30 AM" src="https://user-images.githubusercontent.com/74306760/153274507-8aebb6a1-81ca-4c03-a0e9-feb66f76b98c.png">
