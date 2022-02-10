@@ -1,6 +1,9 @@
 ![astronomia](https://user-images.githubusercontent.com/74306760/153274660-007d89b1-5ebc-4dec-8474-575ede6d9a64.jpg)
 
 # Astronomia: let the exploration begin
+The main objective of the game is to destroy multiple waves of asteroids with the help of a blaster mounted on the spaceship. After passing each level, the player reaches the next planet in the solar system, starting form Mercury.
+
+<img width="390" alt="Screenshot 2022-02-10 at 12 57 21 PM" src="https://user-images.githubusercontent.com/74306760/153358287-e6ac0265-cc5f-4992-8ec3-9f0a90fba198.png">
 
 <img width="901" alt="Screenshot 2022-02-10 at 12 50 06 AM" src="https://user-images.githubusercontent.com/74306760/153274455-2e8f6251-a295-40cd-9122-66053e663a07.png">
 
