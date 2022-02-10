@@ -4,7 +4,7 @@
 The main objective of the game is to destroy multiple waves of asteroids with the help of a blaster mounted on the spaceship. After passing each level, the player reaches the next planet in the solar system, starting form Mercury.
 
 ### Requirements:
-To use this project, you will need the following:
+To use this project, you will need the following.
 ⋅⋅⋅* [pygame](https://pypi.org/project/pygame/)
 ⋅⋅⋅* [PIL](https://pypi.org/project/Pillow/)
 ⋅⋅⋅* [python mysql.connector](https://pypi.org/project/mysql-connector-python/#description)
