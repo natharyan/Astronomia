@@ -68,7 +68,7 @@ After finishing a level, you will see that your spaceship has been updated and i
 
 
 ## Spaceships available:
-A list of all the spaceships you can get after reaching a level.
+A list of all the spaceships you can get after reaching a particular level.
 
 
 ![3](https://user-images.githubusercontent.com/74306760/153371435-e81b549e-11bb-4f3b-9319-219231e03ec6.jpg)
