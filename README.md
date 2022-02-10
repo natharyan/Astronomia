@@ -76,7 +76,7 @@ A list of all the spaceships you can get after reaching a particular level.
 
 
 ## Note:
-In this version, all the data is stored locally on your computer. Hence you have to change the following code in the **main.py** file to match with your MySQL database server.
+In this version all the data are stored locally on your computer. Hence you have to change the following code in the **main.py** file to match with your MySQL database server.
 
 ```python
 conn = conn = dat.connect(
