@@ -79,7 +79,7 @@ A list of all the spaceships you can get after reaching a particular level.
 In this version all the data are stored locally on your computer. Hence you have to change the following code in the **main.py** file to match with your MySQL database server.
 
 ```python
-conn = conn = dat.connect(
+conn = dat.connect(
         host="localhost", user="root", passwd="___", database="___")
 ```
 
