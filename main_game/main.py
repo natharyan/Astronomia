@@ -450,7 +450,7 @@ level_characteristics = {
 
 if __name__ == "__main__":
     conn = conn = dat.connect(
-        host="localhost", user="root", passwd="aryannath2004", database="Astronomia")
+        host="localhost", user="root", passwd="", database="Astronomia")
     cur = conn.cursor()
 
     Loginform()
