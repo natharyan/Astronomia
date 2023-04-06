@@ -78,7 +78,7 @@ In this version all the data are stored locally on your computer. Hence you have
 
 ```python
 conn = dat.connect(
-        host="localhost", user="root", passwd="___", database="___")
+        host="localhost", user="___", passwd="___", database="___")
 ```
 
 
