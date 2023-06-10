@@ -42,7 +42,7 @@ Here, your progress in the game, your spaceship statistics and the design of you
 
 • spacebar for shooting projectiles.
 
-(in order to slow down the spaceship you have to turn the spaceship and accelerate in the opposite direction)
+(in order to slow down the spaceship you have to turn around the spaceship and accelerate)
 
 
 https://user-images.githubusercontent.com/74306760/153367243-dcbbf687-12d7-435a-855f-4b5a13bf9770.mp4
